@@ -1,1 +1,1 @@
-# pandas-project
+# pandas-course-project
