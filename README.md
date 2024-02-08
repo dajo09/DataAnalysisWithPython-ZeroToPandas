@@ -29,3 +29,5 @@ sns.barplot(x = top_cath_pop.Country, y = top_cath_pop.TotalCatholicPerCountry,
 
 <img width="722" alt="sample Panda chart" src="https://github.com/dajo09/zero-to-pandas-project-Data-Analysis-on-Catholic-Population-Around-the-World-/assets/33592524/7899fb1e-9f2d-4b26-a67b-5bac2092b120">
 
+[view Course Certificate](https://jovian.com/certificate/MFQTEOJRGU)
+
