@@ -1,5 +1,5 @@
-# pandas-course-project
-# Zero to Pandas Course Project **_Analysis on Catholic Population Around the World_** hosted by [jovian.com](https://jovian.com/dajo09/catholic-population-worldwide-analysis)
+## pandas-course-project
+## Zero to Pandas Course Project **_Analysis on Catholic Population Around the World_** hosted by [jovian.com](https://jovian.com/dajo09/catholic-population-worldwide-analysis)
 <img src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Vatican-City_240-animated-flag-gifs.gif"
 style="width:490px; float: left; margin: 0 0px 0px 0px;"></img>
 
